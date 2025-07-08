@@ -1,1 +1,0 @@
-# Embedded-CNN-Libtorch
