@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "Windows-LibTorch",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/libtorch/include",
+        "C:/libtorch/include/torch/csrc/api/include"
+      ],
+      "defines": [
+        "_USE_MATH_DEFINES"
+      ],
+      "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x64"
+    }
+  ],
+  "version": 4
+}
