@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\matt\Documents\CNNTeensy\Embedded-CNN-Libtorch\torch_project\build\CMakeFiles\05560454c481974f0b41a777952a7056\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{22D157EA-DE19-3CE2-8A2D-41109F8F90DE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

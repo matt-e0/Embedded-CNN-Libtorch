@@ -1,0 +1,10 @@
+^C:\USERS\MATT\DOCUMENTS\CNNTEENSY\EMBEDDED-CNN-LIBTORCH\TORCH_PROJECT\BUILD\CMAKEFILES\05560454C481974F0B41A777952A7056\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/matt/Documents/CNNTeensy/Embedded-CNN-Libtorch/torch_project -BC:/Users/matt/Documents/CNNTeensy/Embedded-CNN-Libtorch/torch_project/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/matt/Documents/CNNTeensy/Embedded-CNN-Libtorch/torch_project/build/torch_project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
